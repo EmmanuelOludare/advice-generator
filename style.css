@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+*{
+		font-family: 'Manrope', sans-serif;		
+}
+.attribution { font-size: 11px; text-align: body {
+				
+}center;
+margin-top: 50px; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+body {
+				background: hsl(217, 19%, 24%);
+			 color: white;
+			 text-align: center;
+}
+.card{
+				background: hsl(217, 19%, 38%);
+				width: 335px;
+				border-radius: 25px;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				position: relative;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				top: 0;
+				margin: auto;
+				text-align: center;
+}
+p{
+				color:hsl(150, 100%, 66%);
+				font-weight: lighter;
+				font: 15px;
+}
+#dice{
+			height: 25px;
+			width: 25px;
+			position: relative;
+			right: 0;
+			left: 0;
+			top: 22px;
+			margin:auto;
+			background:hsl(150, 100%, 66%);
+			padding: 12px;
+			border-radius: 50%;
+			box-shadow: 0px 0px 40px #53ffaa;
+}​
+#divider{
+				margin-top:10px;
+				position: relative;
+				left: 0;
+				right: 0;
+			
+}
+h2{
+				margin-top: -10px;
+}
+
+- Light Cyan: hsl(193, 38%, 86%)
+- Neon Green: hsl(150, 100%, 66%)
+
+- Grayish Blue: hsl(217, 19%, 38%)
+- Dark Grayish Blue: hsl(217, 19%, 24%)
